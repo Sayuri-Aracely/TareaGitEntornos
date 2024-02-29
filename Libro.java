@@ -19,15 +19,15 @@ public class Libro {
 			this.autor = autor;
 		}
 
-		public String getTitulo() {
-	        return titulo;
-	    }
+	    public String getTitulo() {
+			return titulo;
+		}
 
-	    public String getAutor() {
-	        return autor;
-	    }
+		public String getAutor() {
+			return autor;
+		}
 
-	    @Override
+		@Override
 	    public String toString() {
 	        return "Título: " + titulo + ", Autor: " + autor;
 	    }
