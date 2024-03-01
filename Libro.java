@@ -31,7 +31,7 @@ public class Libro {
 	    public String toString() {
 	        return "Título: " + titulo + ", Autor: " + autor;
 	    }
-		public void mesaje() {
+		public void mensaje() {
 			System.out.println("Añadir contenido1");
 			System.out.println("Añadir contenido2");
 			System.out.println("Añadir contenido3");

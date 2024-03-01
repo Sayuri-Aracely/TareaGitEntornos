@@ -19,5 +19,10 @@ public class Biblioteca {
 		    public List<Libro> obtenerLibros() {
 		        return listaLibros;
 		    }
-
+		    public void mesaje() {
+		    	System.out.println("Otra Prueba1");
+		    	System.out.println("Otra Prueba2");
+		    	System.out.println("Otra Prueba3");
+		    	System.out.println("Otra Prueba4");
+		    }
 }
