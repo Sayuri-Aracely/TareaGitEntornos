@@ -25,5 +25,7 @@ public class Principal {
 	            System.out.println(libro); 
 	            System.out.println("Prueba1");
 	        }
+	        System.out.println("Otra Prueba2");
 	  }
+	       
 }
