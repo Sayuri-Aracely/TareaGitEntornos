@@ -22,5 +22,6 @@ public class Biblioteca {
 		    public void mesaje() {
 		    	System.out.println("Otra Prueba1");
 		    	System.out.println("Otra Prueba2");
+		    	System.out.println("Otra Prueba3");
 		    }
 }

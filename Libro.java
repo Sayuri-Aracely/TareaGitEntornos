@@ -34,5 +34,6 @@ public class Libro {
 		public void imprimeMesaje() {
 	    	System.out.println("Otra Nueva Prueba1");
 	    	System.out.println("Otra Nueva Prueba2");
+	    	System.out.println("Otra Nueva Prueba3");
 	    }
 }
