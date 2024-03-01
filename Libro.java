@@ -34,5 +34,6 @@ public class Libro {
 		public void mesaje() {
 			System.out.println("Añadir contenido1");
 			System.out.println("Añadir contenido2");
+			System.out.println("Añadir contenido3");
 		}
 }
