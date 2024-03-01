@@ -35,5 +35,6 @@ public class Libro {
 	    	System.out.println("Otra Nueva Prueba1");
 	    	System.out.println("Otra Nueva Prueba2");
 	    	System.out.println("Otra Nueva Prueba3");
+	    	System.out.println("Otra Nueva Prueba4");
 	    }
 }
